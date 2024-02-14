@@ -37,10 +37,10 @@ The firm can apply this understanding for portfolio management and risk evaluati
 
 
 ## Technologies Used
-> pandas - version 2.0.3
-> numpy - version 1.24.3
-> seaborn - 0.12.2
-> matplotlib - 3.8.2
+* pandas - version 2.0.3
+* numpy - version 1.24.3
+* seaborn - 0.12.2
+* matplotlib - 3.8.2
 
 
 ## Contact
